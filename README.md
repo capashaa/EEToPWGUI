@@ -1,5 +1,5 @@
 # EEToPWGUI
-A gui for EEToPW with all features  
+A gui for EEToPW with all features from EEToPW.
 
 ![Image](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/form.png)
 
