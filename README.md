@@ -3,6 +3,8 @@ A gui for EEToPW with all features
 
 ![Image](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/form.png)
 
+## How to use the tool
+
 ### How to grab AuthToken:
 Login into PixelWalker. Click on Developers tools. In Chrome it's F12.  
 Refresh PixelWalker website. Look for auth-refresh. Click on it.  
@@ -25,3 +27,7 @@ Remember, the size of the world can't be bigger than 200x200 or 100x100.
 ### Let's upload
 Click on the button Upload.   
 If you want to cancel click on Stop.  
+
+## SDK's used in this project
+[Using Marten's PixelWalker SDK](https://github.com/MartenM/PixelPilot)  
+[Using EELVL SDK by Luke](https://gitlab.com/LukeM212/EELVL)  
