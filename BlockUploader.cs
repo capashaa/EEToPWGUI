@@ -37,15 +37,15 @@ namespace EEtoPWGUI
                         if (client.IsConnected)
                         {
                             client.Send(new BasicBlock(x, y, 1, data[lvl[0, x, y].BlockID]).AsPacketOut());
-                            Thread.Sleep(10);
+                            Thread.Sleep(3);
                         }
                     }
-                    if (lvl[1, x, y].BlockID != 0 && data.ContainsKey(lvl[1, x, y].BlockID))
+                    if (data.ContainsKey(lvl[1, x, y].BlockID))
                     {
                         if (client.IsConnected)
                         {
                             client.Send(new BasicBlock(x, y, 0, data[lvl[1, x, y].BlockID]).AsPacketOut());
-                            Thread.Sleep(10);
+                            Thread.Sleep(3);
                         }
 
                     }
