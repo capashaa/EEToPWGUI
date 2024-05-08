@@ -33,6 +33,7 @@ namespace EEtoPWGUI
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             txtbAuthTokenOrEmail = new TextBox();
             lblWorldId = new Label();
             txtbWorldId = new TextBox();
@@ -125,6 +126,7 @@ namespace EEtoPWGUI
             Controls.Add(txtbWorldId);
             Controls.Add(lblWorldId);
             Controls.Add(txtbAuthTokenOrEmail);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MainForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "MainForm";
