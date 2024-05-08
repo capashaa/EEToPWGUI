@@ -6,7 +6,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>pw_4pm_icon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="pw_4pm_icon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="EELVL" Version="3.1.0" />
