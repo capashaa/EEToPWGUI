@@ -1,5 +1,6 @@
-# EEToPWGUI
-A gui for EEToPW with all features from EEToPW.
+# EEToPWGUI - Pixelwalker.net tool
+A gui for EEToPW with all features from EEToPW.  
+This tool is for Pixelwalker.net. And nothing else.
 
 ![Image](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/form.png)
 
