@@ -1,3 +1,5 @@
+![img](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/PixelWalkger_logo.png)
+
 # EEToPWGUI - Pixelwalker.net tool
 A gui for EEToPW with all features from EEToPW.  
 This tool is for Pixelwalker.net. And nothing else.
@@ -44,6 +46,7 @@ Remember, the size of the world can't be bigger than 200x200 or 100x100.
 Click on the button Upload.   
 If you want to cancel click on Stop.  
 
-## SDK's used in this project
+## Credits and Licenses
 [Using Marten's PixelWalker SDK](https://github.com/MartenM/PixelPilot)  
 [Using EELVL SDK by Luke](https://gitlab.com/LukeM212/EELVL)  
+PixelWalker logo and icon made by Zoey.   
