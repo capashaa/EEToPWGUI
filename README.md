@@ -2,6 +2,21 @@
 A gui for EEToPW with all features from EEToPW.  
 This tool is for Pixelwalker.net. And nothing else.
 
+This tool is going to try to convert an EELVL to pixelwalker.  
+Then upload the information to the pixelwalker.net API through the SDK in the bottom
+of this page.  
+
+**Warning:** All blocks that doesn't exist in Pixelwalker is going to be missing from a EELVL file.  
+Right now it only support basic worlds.  
+Minimap colors is maybe going to be supported in the future. 
+
+### Supported advanced blocks
+- [x] Invisible Portal, Visible Portal.  
+- [x] Coin Doors/gates, Death doors/gates.  
+- [x] Orange/Purple switches/doors/gates.   
+- [x] Colored spikes will be normal spikes in PW.  
+  
+Image of the tool:  
 ![Image](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/form.png)
 
 ## How to use the tool
