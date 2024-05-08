@@ -28,6 +28,8 @@ Login into PixelWalker. Click on Developers tools. In Chrome it's F12.
 Refresh PixelWalker website. Look for auth-refresh. Click on it.  
 You should find " Authorization:" a really long AuthToken comes after this text.  
 Copy this, and paste below the text AuthToken in the interface.  
+**Example:**   
+![img](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/Authtoken.png)  
 
 ### How to grab WorldID
 Join your own world where you want to upload the EE world.  
