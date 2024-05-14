@@ -1,5 +1,3 @@
-![img](https://raw.githubusercontent.com/capashaa/EEToPWGUI/main/img/PixelWalkger_logo.png)
-
 # EEToPWGUI - Pixelwalker.net tool
 A gui for EEToPW with all features from EEToPW.  
 This tool is for Pixelwalker.net. And nothing else.
