@@ -1,3 +1,6 @@
+>[!Warning]
+>This tool is no longer working.
+
 # EEToPWGUI - Pixelwalker.net tool
 A gui for EEToPW with all features from EEToPW.  
 This tool is for Pixelwalker.net. And nothing else.
